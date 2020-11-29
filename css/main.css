@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+body
+{
+    margin:0;
+    height: 100vh;
+}
+canvas
+{
+    display: block;
+}
+h1 {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    font-family: 'Montserrat';
+    font-size: 7em;
+    text-transform: uppercase;
+    width: auto;
+    line-height: .8em;
+    border: 5px solid black;
+    padding: .2em;
+  }
